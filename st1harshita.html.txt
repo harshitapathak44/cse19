@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practical</title>
+</head>
+<body>
+<h1>E-COMMERCE WEBSITE</h1>
+<br><br>
+<hr>
+<nav>
+<a href ="#Youtube">Youtube</a>
+<br>
+<a href="#Multimedia">Multimedia</a>
+<br>
+<a href="#Bestseller">Best Seller</a>
+<br>
+<a href ="#Image">Image</a>
+</nav>
+<br><br>
+<hr>
+<h2>Youtube</h2>
+<section id="Youtube">
+<a href=" https://video.com">Click here to access youtube video</a>
+</section>
+<br><br>
+<hr>
+<h2>Multimedia</h2>
+<section id ="Multimedia">
+<video controls width="45">
+<video src"mp4">Click here to access video<alt>shinchan video</alt>
+</section>
+</video>
+<br><br>
+<hr><section id="Best seller">
+<h2>Best seller</h2>
+<a href ="link">click here to access best seller</a>
+</section>
+<br><br>
+<hr>
+<h2>Image</h2>
+<section id="Image">
+<img src="mp3">click here to view image<alt> shinchan photos</alt>
+</img>
+<hr>
+</body>
+</html>
