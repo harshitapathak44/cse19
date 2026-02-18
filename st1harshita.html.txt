@@ -40,7 +40,7 @@
 <h2>Image</h2>
 <section id="Image">
 <img src="mp3">click here to view image<alt> shinchan photos</alt>
-</img>
+
 <hr>
 </body>
 </html>
